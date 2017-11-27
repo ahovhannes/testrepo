@@ -1,4 +1,5 @@
 # testrepo
 This is test-repository
 
-AAAAAAA - first editing
+AAAAA - first editing
+BBBBB - second editing
